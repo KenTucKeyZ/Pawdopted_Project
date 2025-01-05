@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project, create a folder named petsmart_user_en, the copy and paste all the code, This code run perfectly on mobile and integrated with firebase database api.
 
 A few resources to get you started if this is your first Flutter project:
 
