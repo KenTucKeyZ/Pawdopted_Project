@@ -1,8 +1,8 @@
 # petsmart_user_en
 
-A new Flutter project.
+FLUTTER PROJECT CREATED BY KENRICK, SHERRYN, HANS, KEVIN, CHRISTO
 
-## Getting Started
+## GETTING STARTED IN BUILDING THIS APP
 
 To run this project, create a folder named petsmart_user_en, the copy and paste all the code, This code run perfectly on mobile and integrated with firebase database api.
 
